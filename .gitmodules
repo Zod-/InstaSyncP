@@ -1,0 +1,3 @@
+[submodule "InstaSynchP-Core"]
+	path = InstaSynchP-Core
+	url = https://github.com/Zod-/InstaSynchP-Core.git
